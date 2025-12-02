@@ -1,7 +1,3 @@
-# crud_turtle.py
-# Visual CRUD demo using Python turtle
-# Save as crud_turtle.py and run: python crud_turtle.py
-
 import turtle
 
 # ---------- Config ----------
@@ -227,3 +223,4 @@ redraw()
 
 # keep window open
 turtle.done()
+
